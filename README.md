@@ -1,4 +1,4 @@
 # -RRT-Implementation
-•Implemented advanced path planning using RRT* Connect algorithm with additional rectangular bounds (inspired by BIT*) in ROS Noetic environment.
-•Integrated Bressenham line algorithm for efficient trajectory generation, optimizing real-time plotting with matplotlib for visualization.
-•Utilized KD-Tree for optimizing nearest neighbor search, enhancing efficiency and robustness in path planning computations.
+->Engineered an advanced path planning system utilizing the RRT* Connect algorithm, incorporating additional rectangular bounds inspired by the BIT* algorithm within a ROS Noetic environment. This approach ensures efficient navigation through complex environments.
+->Integrated the Bresenham line algorithm to facilitate precise and efficient trajectory generation, optimizing real-time plotting and visualization capabilities using matplotlib, thereby enhancing the clarity and responsiveness of path visualization.
+->Employed KD-Tree data structures to optimize nearest neighbor search operations, significantly boosting the efficiency and robustness of path planning computations. This enhancement ensures rapid and accurate pathfinding, even in densely populated state spaces, thereby improving overall system performance and reliability.
